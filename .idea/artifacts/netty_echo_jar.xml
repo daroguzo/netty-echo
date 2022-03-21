@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="netty-echo:jar">
+  <artifact type="jar" name="netty-echo:jar">
     <output-path>$PROJECT_DIR$/../netty-echo/out/artifacts/netty_echo_jar</output-path>
     <root id="archive" name="netty-echo.jar">
       <element id="module-output" name="netty-echo" />
